@@ -1,0 +1,5 @@
+# git push origin b1  ==> pushes files of b1 branch onto external repo
+It will ask for username and password ..give follwoing details:
+Username: 
+Passowrd:
+Now go to external repo and see all the files of b1 will be available.
